@@ -1,0 +1,36 @@
+H:\360同步\lemon小组\thSensor\lemonReceiver\bin\Debug\lemonReceiver.exe
+H:\360同步\lemon小组\thSensor\lemonReceiver\bin\Debug\lemonReceiver.pdb
+H:\360同步\lemon小组\thSensor\lemonReceiver\obj\x86\Debug\thSensor.mainF.resources
+H:\360同步\lemon小组\thSensor\lemonReceiver\obj\x86\Debug\thSensor.Properties.Resources.resources
+H:\360同步\lemon小组\thSensor\lemonReceiver\obj\x86\Debug\thSensor.ToNode.ComPortControl.resources
+H:\360同步\lemon小组\thSensor\lemonReceiver\obj\x86\Debug\thSensor.csproj.GenerateResource.Cache
+H:\360同步\lemon小组\thSensor\lemonReceiver\obj\x86\Debug\lemonReceiver.exe
+H:\360同步\lemon小组\thSensor\lemonReceiver\obj\x86\Debug\lemonReceiver.pdb
+C:\Users\lee\Desktop\DL-LNT20-温湿度读取并上报程序组\THSensor_PC\lemonReceiver\obj\x86\Debug\lemonReceiver.exe
+C:\Users\lee\Desktop\DL-LNT20-温湿度读取并上报程序组\THSensor_PC\lemonReceiver\obj\x86\Debug\lemonReceiver.pdb
+C:\Users\lee\Desktop\DL-LNT20-温湿度读取并上报程序组\THSensor_PC\lemonReceiver\bin\Debug\lemonReceiver.exe
+C:\Users\lee\Desktop\DL-LNT20-温湿度读取并上报程序组\THSensor_PC\lemonReceiver\bin\Debug\lemonReceiver.pdb
+C:\Users\lee\Desktop\DL-LNT20-温湿度读取并上报程序组\THSensor_PC\lemonReceiver\obj\x86\Debug\thSensor.mainF.resources
+C:\Users\lee\Desktop\DL-LNT20-温湿度读取并上报程序组\THSensor_PC\lemonReceiver\obj\x86\Debug\thSensor.Properties.Resources.resources
+C:\Users\lee\Desktop\DL-LNT20-温湿度读取并上报程序组\THSensor_PC\lemonReceiver\obj\x86\Debug\thSensor.ToNode.ComPortControl.resources
+C:\Users\lee\Desktop\DL-LNT20-温湿度读取并上报程序组\THSensor_PC\lemonReceiver\obj\x86\Debug\thSensor.csproj.GenerateResource.Cache
+D:\BaiduNetdiskDownload\封装\新建文件夹\STM32例程\程序\THSensor_PC\lemonReceiver\bin\Debug\lemonReceiver.exe
+D:\BaiduNetdiskDownload\封装\新建文件夹\STM32例程\程序\THSensor_PC\lemonReceiver\bin\Debug\lemonReceiver.pdb
+D:\BaiduNetdiskDownload\封装\新建文件夹\STM32例程\程序\THSensor_PC\lemonReceiver\obj\x86\Debug\thSensor.csprojAssemblyReference.cache
+D:\BaiduNetdiskDownload\封装\新建文件夹\STM32例程\程序\THSensor_PC\lemonReceiver\obj\x86\Debug\thSensor.mainF.resources
+D:\BaiduNetdiskDownload\封装\新建文件夹\STM32例程\程序\THSensor_PC\lemonReceiver\obj\x86\Debug\thSensor.Properties.Resources.resources
+D:\BaiduNetdiskDownload\封装\新建文件夹\STM32例程\程序\THSensor_PC\lemonReceiver\obj\x86\Debug\thSensor.ToNode.ComPortControl.resources
+D:\BaiduNetdiskDownload\封装\新建文件夹\STM32例程\程序\THSensor_PC\lemonReceiver\obj\x86\Debug\thSensor.csproj.GenerateResource.cache
+D:\BaiduNetdiskDownload\封装\新建文件夹\STM32例程\程序\THSensor_PC\lemonReceiver\obj\x86\Debug\thSensor.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\封装\新建文件夹\STM32例程\程序\THSensor_PC\lemonReceiver\obj\x86\Debug\lemonReceiver.exe
+D:\BaiduNetdiskDownload\封装\新建文件夹\STM32例程\程序\THSensor_PC\lemonReceiver\obj\x86\Debug\lemonReceiver.pdb
+C:\Users\geekup\Desktop\新建文件夹 (3)\THSensor_PC\lemonReceiver\bin\Debug\lemonReceiver.exe
+C:\Users\geekup\Desktop\新建文件夹 (3)\THSensor_PC\lemonReceiver\bin\Debug\lemonReceiver.pdb
+C:\Users\geekup\Desktop\新建文件夹 (3)\THSensor_PC\lemonReceiver\obj\x86\Debug\thSensor.csproj.AssemblyReference.cache
+C:\Users\geekup\Desktop\新建文件夹 (3)\THSensor_PC\lemonReceiver\obj\x86\Debug\thSensor.mainF.resources
+C:\Users\geekup\Desktop\新建文件夹 (3)\THSensor_PC\lemonReceiver\obj\x86\Debug\thSensor.Properties.Resources.resources
+C:\Users\geekup\Desktop\新建文件夹 (3)\THSensor_PC\lemonReceiver\obj\x86\Debug\thSensor.ToNode.ComPortControl.resources
+C:\Users\geekup\Desktop\新建文件夹 (3)\THSensor_PC\lemonReceiver\obj\x86\Debug\thSensor.csproj.GenerateResource.cache
+C:\Users\geekup\Desktop\新建文件夹 (3)\THSensor_PC\lemonReceiver\obj\x86\Debug\thSensor.csproj.CoreCompileInputs.cache
+C:\Users\geekup\Desktop\新建文件夹 (3)\THSensor_PC\lemonReceiver\obj\x86\Debug\lemonReceiver.exe
+C:\Users\geekup\Desktop\新建文件夹 (3)\THSensor_PC\lemonReceiver\obj\x86\Debug\lemonReceiver.pdb

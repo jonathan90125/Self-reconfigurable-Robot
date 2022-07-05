@@ -1,0 +1,5 @@
+-c --cpu Cortex-M3 -g -O1 --apcs=interwork -I.\USER -I.\SYSTEM\delay -I.\CORE -I.\HARDWARE\DHT11 -I.\STM32F10x_FWLib\inc -I.\HARDWARE\KEY -I.\HARDWARE\LED -I.\HARDWARE\USART3 -I.\HARDWARE\TIMER -I.\HARDWARE\DL_LN3X -I.\SYSTEM\sys -I.\SYSTEM\usart -I.\STM32F10x_FWLib\src 
+-I C:\Keil_v5\ARM\RV31\INC 
+-I C:\Keil_v5\ARM\CMSIS\Include 
+-I C:\Keil_v5\ARM\Inc\ST\STM32F10x 
+-DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o "dht11.o" --omf_browse "dht11.crf" --depend "dht11.d" "HARDWARE\DHT11\dht11.c"
