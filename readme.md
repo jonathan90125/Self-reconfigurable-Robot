@@ -12,7 +12,7 @@ Modular self-reconfigurable robots (MSRR) are robots that consist of many relati
 
 In my opinion, former MSRR's major problem is the limited number of connectors on each individual robots. In order to solve that problem, I designed my own self-reconfigurable robot which contains two types of modules. The sphere modules can be connected by the stick modules to form various three-dimensional shapes. Sphere module contains ferromagnetic spherical shell and an internal actuating system. The remaining space in the shell can be used for electronic components and power supply (only one of eight sections is illustrated in the graph). An additional passive docking ports is on the shell which are used to cooperate with stick module. The stick module is equipped with two magnets and two active docking ports on both ends. The remaining space in the middle of the module is used for two motors which can actuate the docking ports. The internal  electronic components for each modules are very simple as shown in the graph below.
 
-<img src=".\Pictures\phase_1\1.jpg" alt="1" width="500" /> 
+<div align=center><img src=".\Pictures\phase_1\1.jpg" alt="1" width="500" /> </div>
 
 <img src=".\Pictures\phase_1\2.jpg" alt="7" width="500" /> 
 
