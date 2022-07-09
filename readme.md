@@ -6,7 +6,7 @@
 
 Modular self-reconfigurable robots (MSRR) are robots that consist of many relatively simple individual robots which can cooperate together by changing their configuration according to different tasks. Many researches as shown below about this topic have been done in recent years, trying to achieve a practical robotic structure.  
 
-<img src=".\Pictures\phase_1\0.jpg" alt="0" style="zoom:50%;" />
+<div align=center><img src=".\Pictures\phase_1\0.jpg" alt="0" width="600" /></div>
 
 ### Introduction
 
@@ -14,28 +14,28 @@ In my opinion, former MSRR's major problem is the limited number of connectors o
 
 <div align=center><img src=".\Pictures\phase_1\1.jpg" alt="1" width="500" /> </div>
 
-<img src=".\Pictures\phase_1\2.jpg" alt="7" width="500" /> 
+<div align=center><img src=".\Pictures\phase_1\2.jpg" alt="7" width="500" /> </div>
 
-<img src=".\Pictures\phase_1\7.jpg" alt="7" width="500" />
+<div align=center><img src=".\Pictures\phase_1\7.jpg" alt="7" width="500" /></div>
 
 ### Actuating System
 
-<img src=".\Pictures\phase_1\3.jpg" alt="3" width="500" />
+<div align=center><img src=".\Pictures\phase_1\3.jpg" alt="3" width="500" /></div>
 
 ### Docking System
 
-<img src=".\Pictures\phase_1\4.jpg" alt="4" width="500" />
+<div align=center><img src=".\Pictures\phase_1\4.jpg" alt="4" width="500" /></div>
 
-<img src=".\Pictures\phase_1\5.jpg" alt="5" width="500" />
+<div align=center><img src=".\Pictures\phase_1\5.jpg" alt="5" width="500" /></div>
 
 ### Connection of Individual modules
 
-<img src=".\Pictures\phase_1\6.jpg" alt="6" width="500" />
+<div align=center><img src=".\Pictures\phase_1\6.jpg" alt="6" width="500" /></div>
 
 ### Implement
-
+<div align=center>
 <img src=".\Pictures\phase_1\21.JPG" alt="21" height="200" /><img src=".\Pictures\phase_1\22.JPG" alt="22" height="200" /><img src=".\Pictures\phase_1\23.JPG" alt="23" height="200" />
-
+</div>
 
 
 
@@ -44,20 +44,21 @@ In my opinion, former MSRR's major problem is the limited number of connectors o
 
 ### Modification
 
-<img src=".\Pictures\phase_2\11.PNG" alt="11" width="500" />
+<div align=center><img src=".\Pictures\phase_2\11.PNG" alt="11" width="500" /></div>
 
-<img src=".\Pictures\phase_2\25.jpg" alt="25" width="500" />
+<div align=center><img src=".\Pictures\phase_2\25.jpg" alt="25" width="500" /></div>
 
 ### Implement
 
 
 
-<img src=".\Pictures\phase_2\1.JPG" alt="1" width="400"/>
-
+<div align=center><img src=".\Pictures\phase_2\1.JPG" alt="1" width="400"/></div>
+<div align=center>
 <img src=".\Pictures\phase_2\2.JPG" alt="2" width="200" /><img src=".\Pictures\phase_2\3.jpg" alt="3" width="200"/>
-
+</div>
+<div align=center>
 <img src=".\Pictures\phase_2\4.JPG" alt="4" width="200" /><img src=".\Pictures\phase_2\5.JPG" alt="5" width="200" />
-
+</div>
 
 
 
