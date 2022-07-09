@@ -50,9 +50,7 @@ All the modules are meaningless unless they can cooperate together to form a hol
 
 Some basic tests have been implemented to verify the feasibility of the actuating mechanism. Since the whole structure can be considered as three orthogonal stators and the electromagnets on each stator have little influence to other stators, the feasibility can be test on just one stator. A very preliminary experiment's devices are shown in figure below. The iron core of the prototype is using a stator which is made for motor. Its diameter is 40mm, height is 20mm, number of slots is 12. The diameter of varnished wire is 0.21 which could be much smaller to improve the performance significantly. Since the power dissipation can be reduced because no extra resistance is needed to constrain the current any more. On each tooth of the stator, we put an independent coil on it. The electronics in this testing device is very simple, using a STM32F103C8T6 to control all the independent coils, a ZigBee module CC2530 to communicate with upper computer. Some resistance is added to restrain the current inside the coil. A 12v battery is used to provide power for the coils. A voltage stabilization module AMS1117 is used to provide 3.3v power source for controlling circuit. A simple upper computer program has also been written to control each coil. 
 
-<div align=center>
-<img src=".\Pictures\phase_1\24.JPG" height="300" />
-</div>
+<div align=center><img src=".\Pictures\phase_1\24.JPG" alt="1" height="300"/></div>
 
 ## PHASE 2
 
