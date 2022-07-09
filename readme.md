@@ -2,6 +2,8 @@
 
 ## PHASE 1
 
+This is the project I did for the "College Students Innovation and Entrepreneurship Competition" in china. And it was certificated as a province level project int the competition. 
+
 ### Background
 
 Modular self-reconfigurable robots (MSRR) are robots that consist of many relatively simple individual robots which can cooperate together by changing their configuration according to different tasks. Many researches as shown below about this topic have been done in recent years, trying to achieve a practical robotic structure.  
@@ -54,17 +56,27 @@ Some basic tests have been implemented to verify the feasibility of the actuatin
 
 ## PHASE 2
 
+Further development is carried out during my internship at CUHK's AI and Robotics laboratory. I made modification to the structure and made a functional prototype.
+
 ### Modification
 
+The previous mechanical design is very difficult to manufacture especially the array of numerous electromagnets inside the sphere modules. Moreover, the torque provided by the actuator is limited and the connection between modules is not stable enough. To solve these problems, a modification for physical structure is necessary. 
 
+The changed design is much simpler than previous one actually, the sphere module becomes just a hollow ferromagnetic ball and the stick module becomes what shows below. Two driving wheel and an array of magnet on each end and corresponding actuator and other units in between. And these modules can cooperate as shown below to form different shapes.
 
 <div align=center><img src=".\Pictures\phase_2\11.PNG" alt="11" width="500" /></div>
 
 <div align=center><img src=".\Pictures\phase_2\25.jpg" alt="25" width="500" /></div>
 
+
+
 ### Implement
 
+I firstly made a prototype using 3d printing to get all the components and the attached the wheels, motors and electronic units to it. This prototype can move independently on the ground with just one stick module and two sphere modules. 
 
+After that I optimize the structure by using driving gears to minimize the size of modules. It can be seen that in the following figures, the size has been significantly reduced. 
+
+After all these work, limited by the budget from the lab and I was arranged to other project (an AGV), I didn't make further development for the robots. 
 
 <div align=center><img src=".\Pictures\phase_2\1.JPG" alt="1" width="400"/></div>
 <div align=center>
