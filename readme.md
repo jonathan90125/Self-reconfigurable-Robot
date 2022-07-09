@@ -60,7 +60,7 @@ In my opinion, former MSRR's major problem is the limited number of connectors o
 
 <img src=".\Pictures\phase_2\4.JPG" alt="4" style="zoom:15%;" />
 
-<img src=".\Pictures\phase_2\5.JPG" alt="5" style="zoom:25%;" />
+<img src=".\Pictures\phase_2\5.JPG" alt="5" width="200" />
 
 
 
