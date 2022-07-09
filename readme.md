@@ -2,7 +2,7 @@
 
 ## PHASE 1
 
-This is the project I did for the "College Students Innovation and Entrepreneurship Competition" in china. And it was certificated as a province level project int the competition. 
+This is the project I did for the "College Students Innovation and Entrepreneurship Competition" in China. And it was certificated as a province level project in the competition. 
 
 ### Background
 
