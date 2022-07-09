@@ -20,9 +20,13 @@ In my opinion, former MSRR's major problem is the limited number of connectors o
 
 ### Actuating System
 
+Figures below show the structure of the actuating system. There are three orthogonal circles inside the shell with 24 electromagnets on each circle, and each circle’s structure is similar to the stator of motor. All the electromagnets inside the sphere module are arranged  to control the magnetic force distribution of the spherical shell, which in turn can drive the magnets  at the end of the stick module to move on the surface of the sphere.
+
 <div align=center><img src=".\Pictures\phase_1\3.jpg" alt="3" width="500" /></div>
 
 ### Docking System
+
+There are two types of docking ports, the active docking ports of stick module and passive docking ports of sphere module. The hooks of active connector which is implemented inside the stick module have three states to provide suitable stability for the system. There are two different hooks in the active connector, one is to keep the stick module strongly connected to the surface of the sphere, the other is used to keep the stick locked at a certain position. There are three conditions of the two hooks, both nonactivated, only hook 1 activated, both activated, which means hook 2 can only be activated when 1 is activated. Hence, only one motor is needed to control both hooks since they are not independent.
 
 <div align=center><img src=".\Pictures\phase_1\4.jpg" alt="4" width="500" /></div>
 
@@ -30,15 +34,25 @@ In my opinion, former MSRR's major problem is the limited number of connectors o
 
 ### Connection of Individual modules
 
+All the modules are meaningless unless they can cooperate together to form a holistic structure and solve problems cooperatively. So the algorithm to manage all the separate modules together to work together is also an important part of the design. Currently, the proposed strategy of connecting all the modules together can be arranged into 4 phases:
+
+*1)*   *To from the simplest structure that is able to move independently. (a)*
+
+*2)*   *Using these structures to gather more modules to achieve a relatively stable system. (b)*
+
+*3)*   *Using the small systems that have been formed to gather modules. (c)*
+
+*4)*   *Combining all the small systems together to obtain the final structure we desire.* 
+
 <div align=center><img src=".\Pictures\phase_1\6.jpg" alt="6" width="500" /></div>
 
 ### Implement
+
+Some basic tests have been implemented to verify the feasibility of the actuating mechanism. Since the whole structure can be considered as three orthogonal stators and the electromagnets on each stator have little influence to other stators, the feasibility can be test on just one stator. A very preliminary experiment's devices are shown in figure below. The iron core of the prototype is using a stator which is made for motor. Its diameter is 40mm, height is 20mm, number of slots is 12. The diameter of varnished wire is 0.21 which could be much smaller to improve the performance significantly. Since the power dissipation can be reduced because no extra resistance is needed to constrain the current any more. On each tooth of the stator, we put an independent coil on it. The electronics in this testing device is very simple, using a STM32F103C8T6 to control all the independent coils, a ZigBee module CC2530 to communicate with upper computer. Some resistance is added to restrain the current inside the coil. A 12v battery is used to provide power for the coils. A voltage stabilization module AMS1117 is used to provide 3.3v power source for controlling circuit. A simple upper computer program has also been written to control each coil. 
+
 <div align=center>
-<img src=".\Pictures\phase_1\21.JPG" alt="21" height="200" /><img src=".\Pictures\phase_1\22.JPG" alt="22" height="200" /><img src=".\Pictures\phase_1\23.JPG" alt="23" height="200" />
+<img src=".\Pictures\phase_1\24.JPG" alt="24" height="300" />
 </div>
-
-
-
 
 ## PHASE 2
 
