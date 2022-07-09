@@ -34,7 +34,7 @@ In my opinion, former MSRR's major problem is the limited number of connectors o
 
 ### Implement
 
-<img src=".\Pictures\phase_1\21.JPG" alt="21" width="200" /><img src=".\Pictures\phase_1\23.JPG" alt="23" width="200" /><img src="D:\GitHub\Self-reconfigurable-Robot\Pictures\phase_1\22.JPG" alt="22" width="200" />
+<img src=".\Pictures\phase_1\21.JPG" alt="21" height="200" /><img src=".\Pictures\phase_1\22.JPG" alt="22" height="200" /><img src=".\Pictures\phase_1\23.JPG" alt="23" height="200" />
 
 
 
@@ -52,9 +52,11 @@ In my opinion, former MSRR's major problem is the limited number of connectors o
 
 
 
-<img src=".\Pictures\phase_2\1.JPG" alt="1" width="500"/>
+<img src=".\Pictures\phase_2\1.JPG" alt="1" width="400"/>
 
-<img src=".\Pictures\phase_2\2.JPG" alt="2" width="200" /><img src=".\Pictures\phase_2\3.jpg" alt="3" width="200"/><img src=".\Pictures\phase_2\4.JPG" alt="4" width="200" /><img src=".\Pictures\phase_2\5.JPG" alt="5" width="200" />
+<img src=".\Pictures\phase_2\2.JPG" alt="2" width="200" /><img src=".\Pictures\phase_2\3.jpg" alt="3" width="200"/>
+
+<img src=".\Pictures\phase_2\4.JPG" alt="4" width="200" /><img src=".\Pictures\phase_2\5.JPG" alt="5" width="200" />
 
 
 
