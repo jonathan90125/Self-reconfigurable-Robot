@@ -51,12 +51,14 @@ All the modules are meaningless unless they can cooperate together to form a hol
 Some basic tests have been implemented to verify the feasibility of the actuating mechanism. Since the whole structure can be considered as three orthogonal stators and the electromagnets on each stator have little influence to other stators, the feasibility can be test on just one stator. A very preliminary experiment's devices are shown in figure below. The iron core of the prototype is using a stator which is made for motor. Its diameter is 40mm, height is 20mm, number of slots is 12. The diameter of varnished wire is 0.21 which could be much smaller to improve the performance significantly. Since the power dissipation can be reduced because no extra resistance is needed to constrain the current any more. On each tooth of the stator, we put an independent coil on it. The electronics in this testing device is very simple, using a STM32F103C8T6 to control all the independent coils, a ZigBee module CC2530 to communicate with upper computer. Some resistance is added to restrain the current inside the coil. A 12v battery is used to provide power for the coils. A voltage stabilization module AMS1117 is used to provide 3.3v power source for controlling circuit. A simple upper computer program has also been written to control each coil. 
 
 <div align=center>
-<img src=".\Pictures\phase_1\24.JPG" alt="24" height="300" />
+<img src=".\Pictures\phase_1\24.JPG" height="300" />
 </div>
 
 ## PHASE 2
 
 ### Modification
+
+
 
 <div align=center><img src=".\Pictures\phase_2\11.PNG" alt="11" width="500" /></div>
 
@@ -75,5 +77,12 @@ Some basic tests have been implemented to verify the feasibility of the actuatin
 </div>
 
 
+## Future Work
 
+What I was trying to achieve has been implemented by a team from CUHK(Shenzhen) as shown in figures below, details can be found in the paper "FreeSN: A Freeform Strut-node Structured Modular Self-reconfigurable Robot - Design and Implementation". The mechanical design is basically the modification version in phase 2 I illustrated above. In fact, I was working at CUHK(Shenzhen)'s AI and Robotics laboratory at that time when that team is working on this project. I met some members of the team who are also reviewer of my paper that I wrote in phase 1, they gave me some very helpful advice like using simulation to prove the feasibility of the design. But, when I mentioned I was trying to make some modification on the design of the self-reconfigurable robot later, they were doing the similar work simultaneously. They insisted that this was their original idea and they have proof for it.  
 
+Apparently, their prototype is much more elegant and compact than mine. I'm very glad that this idea could be implemented even though not by myself. Since currently the physical prototype has been made, the corresponding controlling algorithm  should to created in the future. Moreover, the size should be minimized and the torque provided by the actuator should be enhanced. 
+
+**I might do further research in the future relating to these optimizations I mentioned above, but currently I would like to focus on other robotic areas, because self-reconfigurable robot has a lot of potential but is not a practical solution in most of the scenarios at present. From my working experience and statements in papers, self-reconfigurable robot's driving ability, endurance capability and robustness are all very weak currently comparing to other types of robots.** 
+
+<div align=center><img src=".\Pictures\phase_2\26.jpg" alt="26" width="500" /></div>
