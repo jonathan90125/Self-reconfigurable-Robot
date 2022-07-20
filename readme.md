@@ -93,6 +93,6 @@ What I was trying to achieve has been implemented by a team from CUHK(Shenzhen) 
 
 Apparently, their prototype is much more elegant and compact than mine. I'm very glad that this idea could be implemented even though not by myself. Since currently the physical prototype has been made, the corresponding controlling algorithm  should to created in the future. Moreover, the size should be minimized and the torque provided by the actuator should be enhanced. 
 
-**I might do further research in the future relating to these optimizations I mentioned above, but currently I would like to focus on other robotic areas, because self-reconfigurable robot has a lot of potential but is not a practical solution in most of the scenarios at present. From my working experience and examples in other papers, self-reconfigurable robot's driving ability, endurance capability and robustness are all very weak currently comparing to other types of robots.** 
+In my future work, I would like to focus on the controlling algorithms of multi robot instead of innovation about physical structures. Task decomposition, coalition formation and task allocation of multi robot could be interesting researching areas.  
 
 <div align=center><img src=".\Pictures\phase_2\26.jpg" alt="26" width="500" /></div>
